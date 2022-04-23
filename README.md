@@ -1,4 +1,4 @@
-## Comandos úties para GOLANG
+## Comandos úteis para GOLANG
 
 ### Rodando toda a aplicação
     go run *.go
