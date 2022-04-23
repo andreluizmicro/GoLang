@@ -9,6 +9,10 @@
 ### Limpando o build 
     go clean
 
+
+### Rodando aplicação
+
+    go run main.go
 ### Descobrir se temos race conditions na aplicação
 
     go run -race main.go
